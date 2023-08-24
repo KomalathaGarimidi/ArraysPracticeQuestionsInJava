@@ -1,7 +1,10 @@
 import java.util.Scanner;
 
 import static java.lang.Math.max;
-
+//Kadane’s Algorithm : Maximum Subarray Sum in an Array
+//Problem Statement: Given an integer array arr, find the contiguous subarray
+// (containing at least one number) which
+//has the largest sum and returns its sum and prints the subarray.
 public class KadanesAlgorithm {
     public static void maximumSubArraySum(int array[],int length){
         int sum=array[0];
