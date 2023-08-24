@@ -15,7 +15,6 @@ public class TwoSum {
                     flag=true;
                     break;
                 }
-
             }
             if(flag==true){
                 return "Yes";
