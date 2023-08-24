@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Two Sum : Check if a pair with given sum exists in Array
 public class TwoSum {
     public static String sum(int array[],int N,int target){
         int sum;
