@@ -1,6 +1,7 @@
 import java.util.Scanner;
 //Problem Statement: Given a non-empty array of integers arr, every element appears twice except for one.
 // Find that single one.
+//
 public class ContOfNumberAppereance {
     public static int appereance(int array[],int length){
         int temp[]=new int[10];
